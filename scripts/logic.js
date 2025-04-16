@@ -113,4 +113,3 @@ class TaskList {
 }
 
 const taskList = new TaskList("task-input", "task-list", "add-btn");
-console.log(taskList);
